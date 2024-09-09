@@ -4,4 +4,4 @@
 - 😄 ele/dele
 
 
-
+Olá, sou Júlio, estudante de programação, apaixonado por tecnologia e aprendendo novas habilidades sem experiência ainda.
